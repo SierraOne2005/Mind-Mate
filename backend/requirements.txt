@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+torch
+transformers
+accelerate
+bitsandbytes
+sentencepiece
+python-dotenv
+fastapi-cors
