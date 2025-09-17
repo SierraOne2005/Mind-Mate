@@ -1,6 +1,6 @@
 "use client";
 import { useState } from 'react';
-import ChatWindow from './ChatWindow';
+import ChatWindow from './Chat_Window';
 
 export default function AIAssistant() {
     const [isChatOpen, setIsChatOpen] = useState(false);
